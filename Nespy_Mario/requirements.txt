@@ -1,0 +1,4 @@
+# ! pip install nes-py
+# ! pip install gym-super-mario-bros
+# ! pip install gymnasium
+# ! pip install stable-baselines3[extra]
